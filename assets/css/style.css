@@ -23,9 +23,7 @@
             transition: 0.3s;
             display: flex;
         }
-        #Main{
-
-        }
+        
         .main_nav{
             height: 100px;
         padding: 20px;
@@ -111,7 +109,7 @@
         }
         .slider_content{
             background-color: rgba(32,26,22,.7);
-            margin-top: ;
+            
             padding-top: 250px ;
             position: absolute;
             padding-bottom: 256px;
@@ -206,9 +204,9 @@
             position: absolute;
             
         }
-        .br_sp{
+        
 
-        }
+        
         .cnt_sp{
             position:relative;
             padding-top: 200px;
